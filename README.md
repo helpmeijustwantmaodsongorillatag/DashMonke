@@ -1,4 +1,7 @@
 # MonkeDash
+
+# CURRENTLY UNAVAILABLE
+
 A mod for Gorilla Tag inspired by the dash from Celeste
 
 ![](DashMonke.gif)
