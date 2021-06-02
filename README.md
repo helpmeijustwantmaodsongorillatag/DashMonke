@@ -4,7 +4,7 @@
 
 A mod for Gorilla Tag inspired by the dash from Celeste
 
-![](DashMonke.gif)
+![](Assets/DashMonke.gif)
 
 # [Download](https://github.com/TrueTamashii/MonkeDash/blob/main/MonkeDash.dll?raw=true)
 
