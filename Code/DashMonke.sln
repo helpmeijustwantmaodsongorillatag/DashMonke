@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DashMonke", "DashMonke.csproj", "{F13C0F95-2843-47CA-85DE-9A320D88DD64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F13C0F95-2843-47CA-85DE-9A320D88DD64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F13C0F95-2843-47CA-85DE-9A320D88DD64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F13C0F95-2843-47CA-85DE-9A320D88DD64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F13C0F95-2843-47CA-85DE-9A320D88DD64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B9EF76C-4652-49B1-ADD9-25C9C1A5DF5F}
+	EndGlobalSection
+EndGlobal
