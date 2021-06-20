@@ -1,6 +1,4 @@
-# MonkeDash
-
-# 🔴 CURRENTLY UNAVAILABLE 🔴
+# MonkeDash 2.0
 
 A mod for Gorilla Tag inspired by the dash from Celeste
 
@@ -13,12 +11,14 @@ To use press A or B (Depending on which vr mode you are on) - And you will dash 
 #
 
 **Current Version:**
-</br> 1.0.0.0
+</br> 2.0.0.0
 
 **Latest Update:**
-</br> Made private due to needing to fix bugs
+</br> Complete rework
+</br> Custom colours
+</br> New configurable settings
+</br> Controllable dash mode?
+</br> Better indicator (also toggleable in cfg file)
 
 **Planned Updates:**
-</br> 🟢 Full rework as this was my first mod
-</br> 🟡 Indicator that can't clip through walls
-</br> 🟡  More control over the dash - perhaps configurable in a .cfg file
+</br> Custom Keybinds
