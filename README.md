@@ -1,4 +1,4 @@
-# MonkeDash 2.0
+# DashMonke 2.0
 
 A mod for Gorilla Tag inspired by the dash from Celeste
 
