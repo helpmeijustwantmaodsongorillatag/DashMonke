@@ -2,7 +2,7 @@
 
 A mod for Gorilla Tag inspired by the dash from Celeste
 
-![](Assets/DashMonke.gif)
+![](Assets/Dash2.0.gif)
 
 # [Download](https://github.com/TrueTamashii/MonkeDash/blob/main/MonkeDash.dll?raw=true)
 
