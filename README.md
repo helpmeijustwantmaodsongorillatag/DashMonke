@@ -1,6 +1,6 @@
 # DashMonke 2.0
 
-A mod for Gorilla Tag inspired by the dash from Celeste
+A mod for Gorilla Tag inspired by the dash from Celeste - Now updated!
 
 ![](Assets/Dash2.0.gif)
 
