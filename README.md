@@ -4,7 +4,7 @@ A mod for Gorilla Tag inspired by the dash from Celeste - Now updated!
 
 ![](Assets/Dash2.0.gif)
 
-# [Download](https://github.com/TrueTamashii/MonkeDash/blob/main/MonkeDash.dll?raw=true)
+# [Download](https://github.com/TrueTamashii/DashMonke/raw/main/Code/DashMonke.dll)
 
 To use press A or B (Depending on which vr mode you are on) - And you will dash towards where you are looking.
 
