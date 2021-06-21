@@ -11,7 +11,7 @@ To use press A or B (Depending on which vr mode you are on) - And you will dash 
 #
 
 **Current Version:**
-</br> 2.0.0.0
+</br> 2.0.0.1
 
 **Latest Update:**
 </br> Complete rework
