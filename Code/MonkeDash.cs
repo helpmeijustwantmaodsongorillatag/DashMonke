@@ -20,7 +20,7 @@ using System.IO;
 
 namespace DashMonke
 {
-    [BepInPlugin("org.pepper.MonkeDash.pepperclient", "MonkeDash", "2.0.0.0")]
+    [BepInPlugin("org.pepper.MonkeDash.pepperclient", "MonkeDash", "2.0.0.1")]
     [BepInProcess("Gorilla Tag.exe")]
     public class Patching : BaseUnityPlugin
     {
@@ -134,7 +134,7 @@ namespace DashMonke
                         Indicator.GetComponent<Renderer>().forceRenderingOff = true;
                     }
 
-                    if (AButton && !Dashing && CanDash)
+                    if (AButton && !Dashing && CanDash && !__instance.disableMovement)
                     {
                         Dashing = true;
                     }
